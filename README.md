@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sydneydell
+- 👀 I’m interested in maintaining my knowledge and building fun projects!
+- 🌱 I’m currently learning React.js and HTML
+- 📫 How to reach me: sdell1919@gmail.com
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: I read 80 books in 3 months
